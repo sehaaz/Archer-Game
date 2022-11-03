@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archeer", "Archeer\Archeer.csproj", "{C5B1EA0C-FC64-465A-9686-B6F47D36B21D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5B1EA0C-FC64-465A-9686-B6F47D36B21D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B1EA0C-FC64-465A-9686-B6F47D36B21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B1EA0C-FC64-465A-9686-B6F47D36B21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B1EA0C-FC64-465A-9686-B6F47D36B21D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC842DBD-9537-497F-8CA6-CA1F0E127FBA}
+	EndGlobalSection
+EndGlobal
